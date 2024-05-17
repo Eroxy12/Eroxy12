@@ -19,6 +19,11 @@
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
+<br>
+<br>
+<br>
+<br>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
